@@ -20,30 +20,6 @@ I am a **University Programmer** graduated from the **Universidad Tecnológica N
 
 Since pivoting to the IT industry in 2022, I have focused on building robust and efficient solutions. My technical core is **Java with Spring Boot**, complemented by experience in **Node.js, Express**, and various database technologies.
 
----
-
-### 🛠️ Technical Stack
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <strong>Backend & Languages</strong>
-      <ul>
-        <li>Java (Spring Boot)</li>
-        <li>JavaScript (Node.js / Express)</li>
-        <li>SQL & NoSQL (MongoDB, Neo4j)</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <strong>Frontend & Others</strong>
-      <ul>
-        <li>HTML5 & CSS3</li>
-        <li>Software Architecture</li>
-        <li>Git & GitHub</li>
-      </ul>
-    </td>
-  </tr>
-</table>
 
 ---
 
@@ -68,9 +44,10 @@ What sets me apart is my **6+ years of experience** as a Journalist and Writer f
 
 ---
 
-### 📫 Connect with me:
+<h3 align="center">📫 Connect with me:</h3>
 
-<p align="left">
+
+<p align="center">
   <a href="https://linkedin.com/in/TU-USUARIO-DE-LINKEDIN" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>

@@ -29,7 +29,7 @@ My university education provided me with a comprehensive understanding of softwa
 
 - 📐 **Architecture & Design:** Building scalable and maintainable systems.
 - ⚙️ **Best Practices:** Writing clean, efficient, and professional code.
-- 📊 **Logic & Efficiency:** Strong foundations in Statistics and Operating Systems.
+- 📊 **Logic & Efficiency:** Foundations in Statistics and Operating Systems.
 - 🤝 **Teamwork:** Experience collaborating in diverse environments.
 
 ---
